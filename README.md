@@ -13,7 +13,7 @@ Este é um projeto simples que consiste em uma página web com uma calculadora q
 
 Antes de começar, certifique-se de ter o seguinte instalado:
 
-- Navegador web atualizado
+- Navegador web atualizado.
 #
 
 - <b>Este projeto foi desenvolvido como parte do meu treinamento de aprendizagem de JavaScript. </b>
